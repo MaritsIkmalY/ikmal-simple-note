@@ -8,6 +8,7 @@
     @else
         <div class="table-responsive">
             <table class="table table-striped mx-auto w-50">
+                <caption>Notes kamu</caption>
                 <tr>
                     <th>No</th>
                     <th>Title</th>
